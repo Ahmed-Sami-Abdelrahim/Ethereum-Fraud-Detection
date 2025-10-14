@@ -1,7 +1,6 @@
 # Ethereum Fraud Detection
 
-💳 **Ethereum Fraud Detection** is a project designed to detect suspicious Ethereum transactions using AI. It combines **data cleaning, univariate & bivariate exploratory data analysis (EDA), visualization, machine learning, and an interactive dashboard** to identify potential fraud.
-
+💳 **Ethereum Fraud Detection** is a project designed to detect suspicious Ethereum transactions using AI.
 
 <img width="1917" height="849" alt="png1" src="https://github.com/user-attachments/assets/7e28b9cc-aaad-40dd-ac6f-ca415c205db6" />
 
